@@ -1,14 +1,19 @@
+
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" >
+    
+<meta charset="utf-8" >
 
 <title>first class | wsc&#39;s Blog</title>
+<meta name="description" content="wsc&#39;s Blog">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://scwu1008.github.io//favicon.ico?v=1611328229383">
+<link rel="shortcut icon" href="https://scwu1008.github.io//favicon.ico?v=1611328471624">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://scwu1008.github.io//styles/main.css">
 
 
@@ -19,97 +24,75 @@
   
 
 
-<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
 
 
-    <meta name="description" content="手动模式（M档）下所要调整参数
-
-测光模式与白平衡（用于相机控色）
-自动对焦与驱动模式
-ISO（数码相机的相对感光度（理解为相机内部灯泡））与闪光补偿
-
-测光模式（适应光线反差大小来控制曝光）
-
-评价测光：画面受光比较均匀的场景
-局部测光：..." />
-    <meta name="keywords" content="" />
   </head>
   <body>
     <div id="app" class="main">
-
-      <div class="sidebar" :class="{ 'full-height': menuVisible }">
-  <div class="top-container" data-aos="fade-right">
-    <div class="top-header-container">
-      <a class="site-title-container" href="https://scwu1008.github.io/">
-        <img src="https://scwu1008.github.io//images/avatar.png?v=1611328229383" class="site-logo">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="https://scwu1008.github.io/">
+        <img class="avatar" src="https://scwu1008.github.io//images/avatar.png?v=1611328471624" alt="" width="32px" height="32px">
+      </a>
+      <a href="https://scwu1008.github.io/">
         <h1 class="site-title">wsc&#39;s Blog</h1>
       </a>
-      <div class="menu-btn" @click="menuVisible = !menuVisible">
-        <div class="line"></div>
-      </div>
     </div>
-    <div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
+  </div>
+</div>
+
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
       
         
-          <a href="/" class="site-nav">
+          <a href="/" class="menu purple-link">
             首页
           </a>
         
       
         
-          <a href="/archives" class="site-nav">
+          <a href="/archives" class="menu purple-link">
             归档
           </a>
         
       
         
-          <a href="/tags" class="site-nav">
+          <a href="/tags" class="menu purple-link">
             标签
           </a>
         
       
         
-          <a href="/post/about" class="site-nav">
+          <a href="/post/about" class="menu purple-link">
             关于
           </a>
         
       
     </div>
   </div>
-  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
-    <div class="social-container">
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-    </div>
-    <div class="site-description">
-      wsc's Blog
-    </div>
-    <div class="site-footer">
-      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://scwu1008.github.io//atom.xml" target="_blank">RSS</a>
-    </div>
-  </div>
-</div>
+</transition>
 
 
-      <div class="main-container">
-        <div class="content-container" data-aos="fade-up">
-          <div class="post-detail">
-            <h2 class="post-title">first class</h2>
-            <div class="post-date">2021-01-22</div>
+      <div class="content-container">
+        <div class="post-detail">
+          
+          <h2 class="post-title">first class</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2021-01-22</span>
             
-            <div class="post-content" v-pre>
-              <h3 id="手动模式m档下所要调整参数">手动模式（M档）下所要调整参数</h3>
+          </div>
+          <div class="post-content">
+            <h3 id="手动模式m档下所要调整参数">手动模式（M档）下所要调整参数</h3>
 <ol>
 <li>测光模式与白平衡（用于相机控色）</li>
 <li>自动对焦与驱动模式</li>
@@ -160,37 +143,51 @@ ISO（数码相机的相对感光度（理解为相机内部灯泡））与闪�
 <p>（F值越大，光圈越小，进入相机光线越少）</p>
 <p><span style='color:red;background:背景颜色;font-size:文字大小;font-family:字体;'>取景-构图-定焦-测光控制曝光（手动模式下取景器里有内置测光表）</span></p>
 
-            </div>
-            
-            
-              <div class="next-post">
-                <div class="next">下一篇</div>
-                <a href="https://scwu1008.github.io/post/test/">
-                  <h3 class="post-title">
-                    test
-                  </h3>
-                </a>
-              </div>
-            
-
-            
-              
-                <div id="gitalk-container" data-aos="fade-in"></div>
-              
-
-              
-            
-
           </div>
-
         </div>
+
+        
+          <div class="next-post">
+            <a class="purple-link" href="https://scwu1008.github.io/post/test/">
+              <h3 class="post-title">
+                下一篇：test
+              </h3>
+            </a>
+          </div>
+          
       </div>
+
+      
+        
+          <div id="gitalk-container"></div>
+        
+
+        
+      
+
+      <div class="site-footer">
+  <div class="slogan">wsc's Blog</div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://scwu1008.github.io//atom.xml" target="_blank">RSS</a>
+</div>
+
+
     </div>
+    <script type="application/javascript">
 
-    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-<script type="application/javascript">
-
-AOS.init();
+hljs.initHighlightingOnLoad()
 
 var app = new Vue({
   el: '#app',
@@ -200,8 +197,6 @@ var app = new Vue({
 })
 
 </script>
-
-
 
 
 
