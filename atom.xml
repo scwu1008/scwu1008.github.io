@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scwu1008.github.io/</id>
     <title>wsc&apos;s Blog</title>
-    <updated>2021-01-22T14:45:20.910Z</updated>
+    <updated>2021-01-22T14:47:28.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://scwu1008.github.io/"/>
     <link rel="self" href="https://scwu1008.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://scwu1008.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, wsc&apos;s Blog</rights>
     <entry>
-        <title type="html"><![CDATA[摄影知识快速入门]]></title>
+        <title type="html"><![CDATA[first class]]></title>
         <id>https://scwu1008.github.io/post/she-ying-zhi-shi-kuai-su-ru-men-di-yi-ke/</id>
         <link href="https://scwu1008.github.io/post/she-ying-zhi-shi-kuai-su-ru-men-di-yi-ke/">
         </link>
