@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scwu1008.github.io/</id>
     <title>wsc&apos;s Blog</title>
-    <updated>2021-01-21T16:18:49.381Z</updated>
+    <updated>2021-01-22T14:32:42.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://scwu1008.github.io/"/>
     <link rel="self" href="https://scwu1008.github.io/atom.xml"/>
@@ -10,6 +10,64 @@
     <logo>https://scwu1008.github.io/images/avatar.png</logo>
     <icon>https://scwu1008.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, wsc&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[摄影知识快速入门（第一课）]]></title>
+        <id>https://scwu1008.github.io/post/she-ying-zhi-shi-kuai-su-ru-men-di-yi-ke/</id>
+        <link href="https://scwu1008.github.io/post/she-ying-zhi-shi-kuai-su-ru-men-di-yi-ke/">
+        </link>
+        <updated>2021-01-22T08:35:48.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="手动模式m档下所要调整参数">手动模式（M档）下所要调整参数</h3>
+<ol>
+<li>测光模式与白平衡（用于相机控色）</li>
+<li>自动对焦与驱动模式</li>
+<li>ISO（数码相机的相对感光度（理解为相机内部灯泡））与闪光补偿</li>
+</ol>
+<h4 id="测光模式适应光线反差大小来控制曝光">测光模式（适应光线反差大小来控制曝光）</h4>
+<ol>
+<li>评价测光：画面受光比较均匀的场景</li>
+<li>局部测光：受光反差大（例如：背光状态，拍摄交代对象和环境受光差异大）</li>
+<li>点测光：受光反差大（例如：背光状态，拍摄交代对象和环境受光差异大）（与局部测光区别为测光区域大小不同）</li>
+<li>中央重点测光：中庸测光方式（主体在中央，且和环境受光反差不大的情况）</li>
+</ol>
+<h4 id="白平衡控制相机的色彩还原nb">白平衡（控制相机的色彩还原）（NB）</h4>
+<p>原因：环境光带有的颜色会导致主体颜色发生改变，因此需要进行<mark>色彩还原</mark>。有色光源下物体所表现颜色为<font color=red>条件色</font>，无色光源下物体所表现颜色为<font color=red>固有色</font>。</p>
+<p>（在工业照明（例如路灯）环境下，有些颜色是无法被还原的）</p>
+<ul>
+<li>自动白平衡模式：半按快门时，相机自动侦测拍摄环境，并根据相机存储器内部所记忆的典型性场景进行调整，使得颜色获得准确。</li>
+<li>模式白平衡：例如日光、阴影、阴天、白炽灯等（系统内设）</li>
+<li>用户自定义：</li>
+<li>色温模式：色温用于描述光线颜色（颜色越暖/越黄，色温越低。反之越冷/越蓝，色温越高）（在自动白平衡和模式白平衡都不能很好还原的情况下使用色温模式自定义调节）</li>
+</ul>
+<h4 id="自动对焦af取决于拍摄物体运动状态">自动对焦（AF）（取决于拍摄物体运动状态）</h4>
+<p>原理：拍摄时，相机主动移动内部镜片使得物体变清晰。（测距）</p>
+<p>（方向键调整焦点位置）</p>
+<ul>
+<li>单次对焦：静止物体、运动幅度不大物体（对焦一次）</li>
+<li>连续对焦：运动中物体/跟拍（半按快门时，快门完全启动前始终保持测距状态）</li>
+<li>AI Focus：拍摄无法预知运动状态的物体（根据物体运动状态自动切换对焦方式）</li>
+</ul>
+<h4 id="驱动模式drive">驱动模式（Drive）</h4>
+<p>设置快门完全启动后拍摄方式：单拍、连续拍摄（高速连拍/低速连拍）、定时拍摄等</p>
+<h4 id="相对感光度iso">相对感光度（ISO）</h4>
+<p>原理：ISO越大，相机满足曝光所需环境光线就越少（可理解为相机内部存在一个灯泡，其亮度设置）</p>
+<p>（一般情况下，环境光线进入相机越多（ISO越低），成像质量越高）</p>
+<p>（ISO越高，相机快门能够使用的越快，这样能够防止因手抖照片模糊）</p>
+<ul>
+<li>100-400：天气晴朗的室外环境</li>
+<li>400-1600：阴天或傍晚</li>
+<li>1600-6400，H（扩展iso）：黑暗的室内或夜间</li>
+</ul>
+<h4 id="闪光补偿">闪光补偿</h4>
+<p>用于控制相机闪光灯的闪光输出。（相机闪光灯为自动闪光灯，根据环境自动调整亮度）</p>
+<h4 id="快门">快门</h4>
+<p>半按快门进行自动对焦，快门控制相机进光时间（曝光时间）</p>
+<p>快门越慢，进光越多，曝光越强。（快门越慢，抖动情况下照片越容易拍摄模糊）</p>
+<h4 id="光圈">光圈</h4>
+<p>控制镜头光圈（F值，类似水龙头调节水量大小）</p>
+<p>（F值越大，光圈越小，进入相机光线越少）</p>
+<p><span style='color:red;background:背景颜色;font-size:文字大小;font-family:字体;'>取景-构图-定焦-测光控制曝光（手动模式下取景器里有内置测光表）</span></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[test]]></title>
         <id>https://scwu1008.github.io/post/test/</id>
