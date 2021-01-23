@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scwu1008.github.io/</id>
     <title>wsc&apos;s Blog</title>
-    <updated>2021-01-22T15:18:50.494Z</updated>
+    <updated>2021-01-23T13:10:55.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://scwu1008.github.io/"/>
     <link rel="self" href="https://scwu1008.github.io/atom.xml"/>
@@ -10,6 +10,44 @@
     <logo>https://scwu1008.github.io/images/avatar.png</logo>
     <icon>https://scwu1008.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, wsc&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Mac下Mail app设置]]></title>
+        <id>https://scwu1008.github.io/post/mac-mail-app-setting/</id>
+        <link href="https://scwu1008.github.io/post/mac-mail-app-setting/">
+        </link>
+        <updated>2021-01-23T13:09:48.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="mac-邮箱app设置">Mac 邮箱app设置</h3>
+<h4 id="设置qq邮箱账号">设置QQ邮箱账号</h4>
+<ol>
+<li>浏览器登录QQ邮箱，在「设置-账户」界面中开启「POP3/SMTP」服务和「IMAP/SMTP服务」。</li>
+</ol>
+<img src="https://raw.githubusercontent.com/scwu1008/Picbed_PicGo/main/img/1.png" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/scwu1008/Picbed_PicGo/main/img/2.png" style="zoom: 25%;" />
+<ol start="2">
+<li>开启服务后会生成授权码，该授权码即为第三方客户端登录时所需密码。</li>
+</ol>
+<img src="https://raw.githubusercontent.com/scwu1008/Picbed_PicGo/main/img/3.jpg" style="zoom: 25%;" />
+<ol start="3">
+<li>Mail中在「邮件-添加账户」下点击「QQ邮箱」，输入电子邮件地址为QQ邮箱地址，密码为上一步获取的授权码，然后点击登录。</li>
+</ol>
+<img src="https://raw.githubusercontent.com/scwu1008/Picbed_PicGo/main/img/4.jpg" style="zoom:25%;" />
+<ol start="4">
+<li>设置成功后界面如下：</li>
+</ol>
+<img src="https://raw.githubusercontent.com/scwu1008/Picbed_PicGo/main/img/5.jpg" style="zoom:25%;" />
+<p><span style='color:red;background:背景颜色;font-size:文字大小;font-family:字体;'>如若忘记授权码，可以再次点「生成授权码」重新生成</span></p>
+<img src="https://raw.githubusercontent.com/scwu1008/Picbed_PicGo/main/img/6.png" style="zoom:25%;" />
+<h4 id="设置学生邮箱以xjtu邮箱为例">设置学生邮箱（以XJTU邮箱为例）</h4>
+<ol>
+<li>Mail中在「邮件-添加账户」下点击「其他“邮件”账户」，输入电子邮件地址为学生邮箱地址，密码为邮箱密码，当正常点击登录时会出现<span style='color:red;background:背景颜色;font-size:文字大小;font-family:字体;'>Unable to verify account name or password.</span>提示，如下图所示：</li>
+</ol>
+<img src="https://raw.githubusercontent.com/scwu1008/Picbed_PicGo/main/img/7.png" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/scwu1008/Picbed_PicGo/main/img/8.png" style="zoom:25%;" />
+<ol start="2">
+<li>此处需要填充邮箱服务器信息。其中「Account Type」 一般选择 IMAP, 这样客户端所做的操作可以同步到邮箱的服务器端；而对于 SMTP，客户端只能从服务器拉取内容，不能够上传内容，也就是客户端所有的操作不能同步到服务器上。对于「Mail server」，西交大学生邮箱为：「stu.xjtu.edu.cn」。填上之后即可正常登录。</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[first class]]></title>
         <id>https://scwu1008.github.io/post/first-class/</id>
