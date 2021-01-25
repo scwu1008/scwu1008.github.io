@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scwu1008.github.io/</id>
     <title>wsc&apos;s Blog</title>
-    <updated>2021-01-23T13:10:55.109Z</updated>
+    <updated>2021-01-25T08:14:34.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://scwu1008.github.io/"/>
     <link rel="self" href="https://scwu1008.github.io/atom.xml"/>
@@ -10,6 +10,198 @@
     <logo>https://scwu1008.github.io/images/avatar.png</logo>
     <icon>https://scwu1008.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, wsc&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[快门、光圈、各种曝光模式]]></title>
+        <id>https://scwu1008.github.io/post/class-4/</id>
+        <link href="https://scwu1008.github.io/post/class-4/">
+        </link>
+        <updated>2021-01-25T08:13:53.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="快门-光圈-各种曝光模式">快门、光圈、各种曝光模式</h3>
+<h4 id="视觉的产生">视觉的产生</h4>
+<p>通过「眼球」聚焦成像—成像光透过「瞳孔」—照射到「视网膜」</p>
+<h4 id="照相机和人眼视觉区别">照相机和人眼视觉区别</h4>
+<ul>
+<li>人眼转换信号、传输信号，将信号转换为记忆。</li>
+<li>相机转换信号，记录信号。</li>
+<li>人眼用瞳孔控制进光量（曝光）</li>
+<li>相机用光圈结合快门控制进光量（曝光）</li>
+<li>人眼感光神经有杆状细胞和锥状细胞之分。</li>
+<li>相机感光有高低感光度之分。（高感光度更能接收弱光）</li>
+</ul>
+<h4 id="曝光">曝光</h4>
+<p>是指摄影过程中允许进入镜头照在感光媒体（胶片相机的底片或者数码照相机的图像传感器「CMOS」）上的光量。「曝光」可以经由光圈，快门和感光媒体的感光度的组合来控制。</p>
+<p>「快门速度」—曝光时间，相机打开快门让光线照射到感光媒体的时间。</p>
+<p>「正确曝光」—照片亮度和普通情况下（晴天的室外）看到的亮度是无异的。</p>
+<ul>
+<li>快门</li>
+</ul>
+<ol>
+<li>快门控制相机曝光量（调节「快门开启时间」—控制「进光时间」控制进光量）</li>
+<li>快门控制画面效果（快门速度高，物体高速运动瞬间被记录。快门速度低，物体运动的过程被记录）</li>
+<li>快门速度慢导致画面模糊（抖动/物体相对运动带来影响，静止物体不所受影响相对较少），快门速度快适用于抓拍。</li>
+</ol>
+<ul>
+<li>光圈</li>
+</ul>
+<ol>
+<li>光圈控制曝光量（光圈大小来控制进光量）</li>
+<li>光圈控制画面效果（光圈值越大，画面中清晰的范围越大。光圈值越小，画面中清晰的范围越小）</li>
+</ol>
+<p>「景深」—景物纵向上清晰的范围。光圈越大（光圈值越小），景深越小（虚化）；光圈越小（光圈值越大），景深越大。</p>
+<p>（利用大光圈，实现小景深，使得背景模糊，达到净化背景的作用）</p>
+<p>（利用「小光圈」（光圈数值大于8），实现大景深，得到所有背景的清晰）</p>
+<p><span style='color:red;background:背景颜色;font-size:文字大小;font-family:字体;'>通过调节「光圈」和「快门」得到正确的曝光。</span></p>
+<ul>
+<li>曝光模式</li>
+</ul>
+<ol>
+<li>
+<p>A/AV：光圈优先模式（手动定义光圈大小，然后利用相机测光获取相应的快门值）</p>
+<p>（由于光圈大小直接影响景深，因此在平常拍摄中此模式使用最为广泛）</p>
+<p>（人像摄影中经常以大光圈实现小景深，实现被摄者在画面中绝对突出；突出主体，深化主题（特写镜头））</p>
+</li>
+<li>
+<p>S/TV：快门优先模式（手动定义快门的情况下，通过相机测光获取相应的光圈值）</p>
+<p>（快门优先模式多用于拍摄运动的物体，尤其是体育运动拍摄中）</p>
+<p>（一般拍摄静止人物1/60s，拍摄缓慢行动人物1/125s，拍摄跑动的人1/250s，拍摄告诉运动汽车1/400s，拍摄飞鸟/飞机则需要更高）</p>
+</li>
+<li>
+<p>P：程序自动曝光模式</p>
+</li>
+</ol>
+<ul>
+<li>
+<p>曝光补偿（测光模式章节会补充讲解）</p>
+<p>（拍摄白色物体出现曝光不足（呈现灰色），设置正的曝光补偿，会恢复白色）</p>
+</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[机身与机头]]></title>
+        <id>https://scwu1008.github.io/post/class-3/</id>
+        <link href="https://scwu1008.github.io/post/class-3/">
+        </link>
+        <updated>2021-01-25T08:13:15.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="机身与机头">机身与机头</h2>
+<h3 id="相机分类大的分类">相机分类（大的分类）</h3>
+<ul>
+<li>紧凑型（无法进行拆卸，添加外置部件）</li>
+<li>开放型（单反相机属于开放型）</li>
+</ul>
+<p><span style='color:red;background:背景颜色;font-size:文字大小;font-family:字体;'>单反相机由机身与镜头构成。</span></p>
+<p>（数码相机分为全画幅相机和半/截画幅相机）</p>
+<p>全画幅：相机的传感器（CMOS）的大小与胶片照相机的底片成像面一致</p>
+<p>半/截画幅：CMOS相对于全画幅更小</p>
+<h3 id="相机机身组成">相机机身组成</h3>
+<ul>
+<li>卡口环（衔接机身和镜头）</li>
+<li>快门键（切换浏览模式与拍摄模式、半点用于对焦）</li>
+<li>快门（反光镜后方钢片—钢片式胶平面快门）</li>
+<li>手柄（一般为电池槽，用于稳定手持相机）</li>
+<li>热靴（接外置设备，例如：外置闪光灯、麦克风等其它非电子触点接触装置）</li>
+<li>取景器（光学取景器）</li>
+<li>主屏幕</li>
+<li>肩屏</li>
+<li>脚架螺口（装置脚架）</li>
+<li>曝光模式选择转轮（机身上方）</li>
+</ul>
+<img src="https://raw.githubusercontent.com/scwu1008/Picbed_PicGo/main/img/摄影-3-4.png" style="zoom:33%;" />
+<h3 id="镜头参数说明不同镜头参数标识符不同类别相同">镜头参数说明（不同镜头参数标识符不同，类别相同）：</h3>
+<ul>
+<li>变焦（Zoom：光学变焦；AF-S：宁静自动对焦，对焦速度更快）</li>
+<li>卡口类型（EF-S：佳能非全画幅相机卡口，DX：尼康非全画幅相机卡口）</li>
+<li>焦距段（18-35mm）</li>
+<li>最大光圈（1:3.5:5.6）</li>
+<li>图像稳定器（佳能镜头上为IS，尼康镜头上位VR）</li>
+<li>镜头口径（镜头前方横断面直径，前端开口）</li>
+</ul>
+<h4 id="焦距">焦距</h4>
+<p>「焦」：焦平面（机身上圆圈+横线）（传统/胶片照相机：底片所在位置；数码相机：CMOS所在位置）</p>
+<p>「距」：镜头中心点到焦平面距离</p>
+<p>焦距越长镜头「望远」能力越强，「视角」越窄，小物体所占画面比例更大。</p>
+<img src="https://raw.githubusercontent.com/scwu1008/Picbed_PicGo/main/img/摄影-3-1.png" alt="135相机（胶片照相机）镜头视角和焦距的关系" style="zoom:33%;" />
+<center>135相机（胶片照相机）镜头视角和焦距的关系</center>
+<p>以「焦距为标准」的镜头分类：</p>
+<ul>
+<li>按焦距是否可变：变焦镜头；定焦镜头</li>
+</ul>
+<p>注：</p>
+<p>景别：全景（从头到脚）、中景（半身）、近景（胸部以上）、脸部（特写）、眼睛（大特写）、远景（画面中人物只有一个点，大面积为环境）</p>
+<p>变焦镜头特点：在同一地点能够实现不同景别</p>
+<p>定焦镜头特点：通过摄影师位置移动，实现不同景别</p>
+<ul>
+<li>按焦距长度：光脚；标准；中焦；长焦</li>
+</ul>
+<p>注：</p>
+<p>（「焦距短的镜头」拍摄「小景别」会导致画面变形，「夸大近大远小特点」）</p>
+<p>（焦距越长，背景越虚，相对广角丧失空间感）</p>
+<p>全画幅相机焦距分类：</p>
+<p>广角：28mm以下；广阔的视角特性；画面变形更为显著的特性；夸大平面画面透视关系，立体表现更加明显。</p>
+<p>标准镜头（人单眼所看到的视角，约45度）：50mm左右；画面非常自然的特性（由于接近人眼视角）；</p>
+<p>中焦镜头（肖像镜头—中近景）：85-135mm左右；背景朦胧化，变虚；</p>
+<p>长焦镜头（望远/摄远镜头）：大于135mm；远处拍摄的特点（野外生物，运动员）；背景虚化的特点；</p>
+<p>非全画幅：广角（尼康：28mm/1.5，佳能：28mm/1.6），标准镜头（类似广角计算），其它类似。</p>
+<p><a href="https://zhuanlan.zhihu.com/p/35336515">焦距、等效焦距、视角、透视的理解</a></p>
+<ul>
+<li>按特殊用途：微距镜头；移轴镜头等</li>
+</ul>
+<p>注：</p>
+<p>（每个镜头都有其「工作距离」，所以距离太近则会导致「无法对焦」）</p>
+<p>微距镜头特性：距离近仍能看清拍摄主体。「拍摄物体面积」和「CMOS成像面积」达到1:1放大率。</p>
+<p>移轴镜头特性：扭曲镜头前端，实现「前端与后端镜片不在同一平面上」，呈现一定立体关系；用于建筑摄影中校正透视关系（消除近大远小带来建筑在画面中倾斜/跌倒的影响）</p>
+<figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/scwu1008/Picbed_PicGo/main/img/%E6%91%84%E5%BD%B1-3-2.png" alt="" loading="lazy"></figure>
+<p>「光圈」的说明：</p>
+<p>光圈是一个用来「控制光线透过镜头，进入机身内感光面的光亮」的装置，是在镜头内。</p>
+<figure data-type="image" tabindex="2"><img src="https://raw.githubusercontent.com/scwu1008/Picbed_PicGo/main/img/%E6%91%84%E5%BD%B1-3-3.png" alt="" loading="lazy"></figure>
+<p>（光圈值越大，后端开口/光圈大小越小，进光越少；值越小，后端开口/光圈大小越大，进光越多。「光圈值可以理解为前端开口和后端开口大小的比例，便于记忆」）</p>
+<p>注：</p>
+<p>最大光圈（1:3.5:5.6）：最大光圈（最小光圈值）在3.5-5.6之中变化，表明其为「非恒定光圈镜头」（随着焦距变化，镜头最大光圈会发生改变），随着焦距变大，最大光圈会缩小（光圈值增大）。</p>
+<p>（定焦镜头没有光圈值的浮动，即为「恒定光圈」；但变焦镜头也存在恒定光圈）</p>
+<h4 id="自动对焦">自动对焦</h4>
+<p>一般在镜头会有自动对焦锁，用于切换「自动」和「手动」对焦方式。</p>
+<p>自动对焦：半点快门时，「相机主动通过移动内部的对焦镜片」，使得影响从模糊变清晰。</p>
+<p>手动对焦：手动转动对焦环，使得影像变清晰。</p>
+<p>注：</p>
+<p>非常暗的环境/拍摄没有层次的物体（例如拍摄白纸等）/透过玻璃拍摄外部物体等「自动对焦无法生效」。</p>
+<p>镜头上标识为A/M：表明相机进入自动对焦状态，仍然可以拧动对焦环，加强对焦精度。</p>
+<h4 id="防抖">防抖</h4>
+<p>不同品牌镜头上有不同的标识符。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[成像原理和相机结构]]></title>
+        <id>https://scwu1008.github.io/post/class-2/</id>
+        <link href="https://scwu1008.github.io/post/class-2/">
+        </link>
+        <updated>2021-01-25T08:12:27.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="成像原理和相机结构">成像原理和相机结构</h3>
+<h4 id="小孔成像原理">小孔成像原理：</h4>
+<ul>
+<li>镜头（小孔）</li>
+<li>呈像面（底片/CMOS传感器）</li>
+<li>不透光环境（机身）</li>
+</ul>
+<p>初期相机改进主要在于感光材料（提高感光度，让快门提速，能够拍摄运动物体）</p>
+<h4 id="单反相机含义为物镜兼做取景器原理图">单反相机（含义为物镜兼做取景器）原理图：</h4>
+<img src="https://raw.githubusercontent.com/scwu1008/Picbed_PicGo/main/img/摄影-2-1.png" style="zoom: 33%;" />
+<p>（电子屏幕取景照相机：通过后背屏幕取景）</p>
+<img src="https://raw.githubusercontent.com/scwu1008/Picbed_PicGo/main/img/摄影-2-3-2.png" style="zoom:50%;" />
+<p>（旁轴照相机：镜头旁目镜作为取景器）</p>
+<img src="https://raw.githubusercontent.com/scwu1008/Picbed_PicGo/main/img/摄影-2-2.png" style="zoom:50%;" />
+<p>（双反照相机：额外增加一个反光镜作为取景器）</p>
+<img src="https://raw.githubusercontent.com/scwu1008/Picbed_PicGo/main/img/摄影-2-4.png" style="zoom:50%;" />
+<ul>
+<li>单反相机成像步骤</li>
+</ul>
+<p>「镜头纳入成像光线—通过反光镜（斜置45度角水银玻璃）—光线反射至毛玻璃成像（反向图像）—通过五棱镜来观察毛玻璃（得到一个正向图像）—完成成像过程」</p>
+<ul>
+<li>单反相机拍摄步骤</li>
+</ul>
+<p>「按下快门—反光镜弹起至水平—反光镜后方快门打开—成像光线照射到胶片/数字传感器（CMOS）上—完成拍摄过程」</p>
+<p><span style='color:red;background:背景颜色;font-size:文字大小;font-family:字体;'>不同品牌的相机最大区别为镜头卡口不同。</span></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mac下Mail app设置]]></title>
         <id>https://scwu1008.github.io/post/mac-mail-app-setting/</id>
@@ -49,7 +241,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[first class]]></title>
+        <title type="html"><![CDATA[摄影快速入门]]></title>
         <id>https://scwu1008.github.io/post/first-class/</id>
         <link href="https://scwu1008.github.io/post/first-class/">
         </link>
